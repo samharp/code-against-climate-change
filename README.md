@@ -6,7 +6,7 @@
 
 ---
 
-![](https://preview.redd.it/c91w0c4zqep31.jpg?width=2552&format=pjpg&auto=webp&s=b4a0eed2400fa8cf71e3bcc38fa1d25a2c971311)
+![Flowchart of possibilities in positively impacting the climate with machine learning (e.g. electricity systems, transportation, buildings & cities, farms & forests, and industry)](https://preview.redd.it/c91w0c4zqep31.jpg?width=2552&format=pjpg&auto=webp&s=b4a0eed2400fa8cf71e3bcc38fa1d25a2c971311)
 Image by @Paul_Strobel
 
 ## 🙅‍♀️ Movements
@@ -93,7 +93,8 @@ leverages sensors and tools that collects, collates, and analyzes weather data t
 
 **Solutions:** Technologies and solutions that do not yet have enough scientific and financial information to model, but that could emerge within the next several years as game-changers in the effort to reverse global warming.
 
-- [Self-Driving Cars]()
+- Self-Driving Cars
+- Carbon Removal
 
 ## 🌍 Climate Change and Society
 
